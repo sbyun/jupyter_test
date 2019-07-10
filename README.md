@@ -1,4 +1,7 @@
 # jupyter_test
 testing jupyter with binder
 
-https://mybinder.org/v2/gh/sbyun/jupyter_test/master <-- Binder URL
+Binder URL
+https://mybinder.org/v2/gh/sbyun/jupyter_test/master?filepath=test.ipynb
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sbyun/jupyter_test/master?filepath=test.ipynb)
